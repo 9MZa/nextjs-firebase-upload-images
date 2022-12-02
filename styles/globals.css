@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+
+.dropzone h1 {
+  font-weight: 200;
+}
+
+.dropzone {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.progress {
+  text-align: center;
+}
+
+.result {
+  max-width: 700px;
+  margin: 0 auto;
+}
